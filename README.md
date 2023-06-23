@@ -2,18 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/gursahib204/News-Application/assets/105225210/152fd19d-9c90-45b7-8d88-c7a28c92e208" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/9523cff6-f1ab-4823-b7ce-e89145705bef" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/News-Application/assets/105225210/d6045e0f-7ddf-484b-b5a9-ee585c998d49" 
+     width="350" 
+     height="500" />
+     
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![WhatsApp Image 2022-10-21 at 1 35 47 PM](https://user-images.githubusercontent.com/105225210/197145876-eba5b8cb-77ab-4906-9b9b-870a5d951790.jpeg)
 
